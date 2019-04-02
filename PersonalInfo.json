@@ -1,6 +1,10 @@
 {
     "firstName": "Dayne",
     "lastName": "Hultman",
+    "preferredName": "Dayne",
+    "email": "daynehhultman@lewisu.edu",
+    "city": "La Grange",
+    "state": "IL",
     "currentYear": "Sophemore",
     "seatLocation": "15", 
     "major": "Computer Science, Video Game Programming",
